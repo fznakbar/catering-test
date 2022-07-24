@@ -1,5 +1,14 @@
 import {ICard} from "./Components/Card/Card";
 
+export const floatingMenuList = [
+  "chat_bubble_outline",
+  "token",
+  "description",
+  "videocam",
+  "people",
+  "shopping_cart",
+];
+
 export const cardList: ICard[] = [
   {
     icon: "view_in_ar",
